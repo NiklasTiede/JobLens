@@ -1,0 +1,95 @@
+{
+  "name": "Niklas Tiede",
+  "location": "Solothurn, Switzerland",
+  "title": "Software Engineer",
+  "summary": "Software Engineer with 5 years of experience building backend systems and full-stack applications in Java/Spring. My Chemistry background (M.Sc.) shaped how I approach problems \u2014 I dig into unfamiliar domains, pick up what's needed, and connect the dots across disciplines. My core strength is backend development and data-intensive systems, but I'll happily work across the stack if that's what it takes to ship a product that delivers real value. I take ownership of what I build and see it through \u2014 from concept to production. Currently exploring new opportunities in Switzerland.",
+  "skills": [
+    "Jenkins",
+    "JavaFX",
+    "Mqtt",
+    "Java",
+    "Spring",
+    "Docker",
+    "MariaDB",
+    "Grafana",
+    "CI/CD",
+    "Python",
+    "Microservices",
+    "Gradle",
+    "Timeseries Storage",
+    "Vision Inspection Systems"
+  ],
+  "experience": [
+    {
+      "company": "IMD Ltd.",
+      "role": "Software Developer",
+      "duration": "May 2024 - Present",
+      "description": "Designed and developed software for vision inspection systems used in high-volume manufacturing quality assurance and a monitoring service collecting real-time inspection data. Built a real-time SPC feature from the ground up: inspection data is grouped, visualized, and evaluated directly on the vision system (control charts, Cpk, histograms, alerting), with results flowing into a central portal for cross-device monitoring. Conceived the architecture for a next-generation portal - adopting timeseries storage for per-part granularity, speeding up development cycles by enabling self-service Grafana dashboards. Introduced Docker-based integration testing with MariaDB into the CI/CD pipeline, improving release confidence and software quality. Championed the adoption of agentic coding through presentations and hands-on guidance, driving team-wide adoption.",
+      "technologies": [
+        "Java",
+        "Spring",
+        "Docker",
+        "MariaDB",
+        "Grafana",
+        "CI/CD",
+        "Vision Inspection Systems",
+        "Timeseries Storage"
+      ]
+    },
+    {
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "role": "Software Developer",
+      "duration": "July 2023 - March 2024",
+      "description": "Responsible for refining and planning features within and across teams and in collaboration with service providers. Tighter integration of telephony service features into the workflow of the CSP platform. Knowledge Sharing by conducting presentations regularly to disseminate expertise within the team.",
+      "technologies": [
+        "CSP platform",
+        "Telephony services"
+      ]
+    },
+    {
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "role": "Junior Software Developer",
+      "duration": "September 2021 - June 2023",
+      "description": "Added or extended Components to improve search functionality, information display and more. Developed self-service tools to shift responsibilities from dedicated personnel. Modernise Spring Microservices by upgrading JDK/Gradle Versions.",
+      "technologies": [
+        "Spring Microservices",
+        "JDK",
+        "Gradle"
+      ]
+    },
+    {
+      "company": "Prof. Thomas Carell, Chemistry Department, LMU Munich.",
+      "role": "Graduate Research Assistant",
+      "duration": "October 2017 - January 2018",
+      "description": "Following our discoveries during my internship we continued to investigate a new, plausible route toward the prebiotic formation of pyrimidines. Conducted experiments under prebiotic conditions and gathered data by mass spectroscopy and HPLC. Co-authored the journal publication titled 'A one-pot, water compatible synthesis of pyrimidine nucleobases under plausible prebiotic conditions' published in 'Chemical Communications'.",
+      "technologies": [
+        "Mass Spectroscopy",
+        "HPLC"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+      "degree": "Master of Science - MS, Chemistry",
+      "grade": null
+    },
+    {
+      "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+      "degree": "Bachelor of Science - BS, Chemistry and Biochemistry",
+      "grade": null
+    }
+  ],
+  "years_of_experience": 5,
+  "certifications": [
+    "Ultimate Java Part 1: Fundamentals",
+    "Complete Python Mastery",
+    "Ultimate Java Part 2: Object-oriented Programming",
+    "Python for Data Science, AI & Development",
+    "An Introduction to Interactive Programming in Python"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ]
+}

@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment / secrets
+*.local
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA — ignore personal settings, keep shareable configs
+.idea/*
+!.idea/runConfigurations/
+!.idea/vcs.xml
+
+# Cloudflare
+.wrangler/
+.dev.vars
+
+# Project spec (internal planning, not for repo)
+SPEC.md
+
+# Debug snapshots (large, generated)
+webapp/testdata/joblens-debug-*.json

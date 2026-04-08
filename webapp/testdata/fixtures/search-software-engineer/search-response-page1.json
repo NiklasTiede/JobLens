@@ -1,0 +1,765 @@
+[
+  {
+    "id": "b31020f1-1d00-4307-9820-162fdc548ac0",
+    "title": "Software Engineer",
+    "company": {
+      "id": "1e70889e-e175-4d97-bca4-8e340d1a7136",
+      "name": "Skysec Defence GmbH",
+      "logoImage": {
+        "src": "https://media.jobs.ch/media/95639a59-0826-4331-97dc-dccddcfe868f"
+      },
+      "slug": "1e70889e-e175-4d97-bca4-8e340d1a7136-skysec-defence-gmbh"
+    },
+    "logo": "https://media.jobs.ch/media/95639a59-0826-4331-97dc-dccddcfe868f",
+    "place": "Aadorf",
+    "initialPublicationDate": "2026-03-24T07:33:16+00:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-24T08:33:16+01:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 8.90163,
+      "lat": 47.49719
+    },
+    "distanceKm": 108
+  },
+  {
+    "id": "98422ed5-f389-4da6-9375-7a578fe82f7b",
+    "title": "Software Engineer (w/m/d)",
+    "company": {
+      "id": "5057",
+      "name": "Digitec Galaxus AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/f0b2ead2-557d-45e3-a8a3-44841268b1a4"
+      },
+      "slug": "5057-digitec-galaxus-ag"
+    },
+    "logo": "https://media.jobs.ch/images/f0b2ead2-557d-45e3-a8a3-44841268b1a4",
+    "place": "Z\u00fcrich",
+    "initialPublicationDate": "2026-04-02T17:34:27+02:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-04-02T17:32:34+02:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 8.51415,
+      "lat": 47.3897
+    },
+    "distanceKm": 77
+  },
+  {
+    "id": "927d21ca-5dbe-4c38-ad70-b4e29099d5f6",
+    "title": "Software Engineer (m/f/d)",
+    "company": {
+      "id": "79097",
+      "name": "MF Group AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/5b0b4015-0d51-4a35-9dd6-635d84851131/124x44.png"
+      },
+      "slug": "79097-mf-group-ag"
+    },
+    "logo": "https://media.jobs.ch/images/5b0b4015-0d51-4a35-9dd6-635d84851131/124x44.png",
+    "place": "Chiasso",
+    "initialPublicationDate": "2026-03-16T13:04:36+01:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-16T13:03:58+01:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 9.025615136133396,
+      "lat": 45.83382693138178
+    },
+    "distanceKm": 191
+  },
+  {
+    "id": "43416f3e-b5db-4b74-b342-4dfac63283f9",
+    "title": "Software Developer",
+    "company": {
+      "id": "50277",
+      "name": "Leister AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/c7db19c2-28b0-42e0-8ae9-6fdf3241fcde/320x320.png"
+      },
+      "slug": "50277-leister-ag"
+    },
+    "logo": "https://media.jobs.ch/images/c7db19c2-28b0-42e0-8ae9-6fdf3241fcde/320x320.png",
+    "place": "K\u00e4giswil",
+    "initialPublicationDate": "2026-03-10T17:01:54+01:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-10T17:01:54+01:00",
+    "listingTags": []
+  },
+  {
+    "id": "cb4c3f58-769f-486c-aeeb-aeb2dca357f0",
+    "title": "Software Engineer (a)",
+    "company": {
+      "id": "431429f5-48be-43db-9169-ecbf88eb5a8c",
+      "name": "St\u00f6cklin Logistik AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/media/3c2472af-d294-4c4f-be4f-289d4832a75e"
+      },
+      "slug": "431429f5-48be-43db-9169-ecbf88eb5a8c-stocklin-logistik-ag"
+    },
+    "logo": "https://media.jobs.ch/media/3c2472af-d294-4c4f-be4f-289d4832a75e",
+    "place": "Jona",
+    "initialPublicationDate": "2026-04-07T11:05:02+00:00",
+    "employmentPositionIds": [
+      2
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [
+      "company-restaurant",
+      "training",
+      "parking-spaces-available",
+      "reka-checks",
+      "flexible-working-hours",
+      "ticket-for-public-transportation"
+    ],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-04-07T13:05:02+02:00",
+    "listingTags": [
+      {
+        "name": "quickApply"
+      },
+      {
+        "name": "easyApply"
+      }
+    ],
+    "coordinates": {
+      "lon": 8.84623,
+      "lat": 47.22292
+    },
+    "distanceKm": 99
+  },
+  {
+    "id": "d9c9a6c8-3663-4fc6-b5f5-df958cd61bd2",
+    "title": "C# Software Engineer",
+    "company": {
+      "id": "630071fd-f8ea-40af-a5b4-27eaf1a6a9b9",
+      "name": "Lync\u00e9e Tec SA",
+      "logoImage": {
+        "src": ""
+      },
+      "slug": "630071fd-f8ea-40af-a5b4-27eaf1a6a9b9-lyncee-tec-sa"
+    },
+    "logo": null,
+    "place": "Ecublens VD",
+    "initialPublicationDate": "2026-03-23T10:14:01+00:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-23T11:14:01+01:00",
+    "listingTags": [
+      {
+        "name": "quickApply"
+      },
+      {
+        "name": "easyApply"
+      }
+    ],
+    "coordinates": {
+      "lon": 6.558687263196509,
+      "lat": 46.52869240622745
+    },
+    "distanceKm": 106
+  },
+  {
+    "id": "b4bf3b05-14c5-4193-a1cc-9248db43c4d8",
+    "title": "Embedded Software Engineer",
+    "company": {
+      "id": "3545",
+      "name": "V-ZUG AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/eaabc8d3-ada0-4cf8-a100-ea112491b10e/852x852.png"
+      },
+      "slug": "3545-v-zug-ag"
+    },
+    "logo": "https://media.jobs.ch/images/eaabc8d3-ada0-4cf8-a100-ea112491b10e/852x852.png",
+    "place": "Zug",
+    "initialPublicationDate": "2026-03-17T05:04:30+01:00",
+    "employmentPositionIds": [
+      2
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-17T05:02:57+01:00",
+    "listingTags": []
+  },
+  {
+    "id": "efe10fbc-3a0d-41b4-8cc8-212b338c291c",
+    "title": "Embedded Software Engineer",
+    "company": {
+      "id": "67970",
+      "name": "MEGGITT SA",
+      "logoImage": {
+        "src": ""
+      },
+      "slug": "67970-meggitt-sa"
+    },
+    "logo": null,
+    "place": "Fribourg",
+    "initialPublicationDate": "2026-04-01T08:34:34+02:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-04-06T01:58:14+02:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 7.12662,
+      "lat": 46.7999
+    },
+    "distanceKm": 55
+  },
+  {
+    "id": "c75f55b0-b1a6-4cb8-8845-98150ed63508",
+    "title": "C++ Software Engineer",
+    "company": {
+      "id": "630071fd-f8ea-40af-a5b4-27eaf1a6a9b9",
+      "name": "Lync\u00e9e Tec SA",
+      "logoImage": {
+        "src": ""
+      },
+      "slug": "630071fd-f8ea-40af-a5b4-27eaf1a6a9b9-lyncee-tec-sa"
+    },
+    "logo": null,
+    "place": "Ecublens VD",
+    "initialPublicationDate": "2026-03-23T10:13:28+00:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-23T11:13:28+01:00",
+    "listingTags": [
+      {
+        "name": "quickApply"
+      },
+      {
+        "name": "easyApply"
+      }
+    ],
+    "coordinates": {
+      "lon": 6.558687263196509,
+      "lat": 46.52869240622745
+    },
+    "distanceKm": 106
+  },
+  {
+    "id": "de3ae5a0-eac1-486c-a601-465cda3bd3c0",
+    "title": "Software Engineer Expert - R&D",
+    "company": {
+      "id": "108892",
+      "name": "United Machining",
+      "logoImage": {
+        "src": ""
+      },
+      "slug": "108892-united-machining"
+    },
+    "logo": null,
+    "place": "Losone",
+    "initialPublicationDate": "2026-04-07T16:34:35+02:00",
+    "employmentPositionIds": [
+      2,
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-04-07T16:33:20+02:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 8.73316,
+      "lat": 46.1782
+    },
+    "distanceKm": 147
+  },
+  {
+    "id": "73c3f51a-d814-418e-ba8a-3ec32e8a372c",
+    "title": "Software-Entwickler:in (80-100%)",
+    "company": {
+      "id": "c52ad801-4cd2-4bc6-b9c4-ea41c63e0e14",
+      "name": "GEOWERKSTATT GmbH",
+      "logoImage": {
+        "src": "https://media.jobs.ch/media/868b5f70-a5aa-4195-a2c7-7d2f5698bab2"
+      },
+      "slug": "c52ad801-4cd2-4bc6-b9c4-ea41c63e0e14-geowerkstatt-gmbh"
+    },
+    "logo": "https://media.jobs.ch/media/868b5f70-a5aa-4195-a2c7-7d2f5698bab2",
+    "place": "Aarau",
+    "initialPublicationDate": "2026-03-06T13:17:37+00:00",
+    "employmentPositionIds": [
+      2
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-06T14:17:37+01:00",
+    "listingTags": [
+      {
+        "name": "quickApply"
+      },
+      {
+        "name": "easyApply"
+      }
+    ],
+    "coordinates": {
+      "lon": 8.05245,
+      "lat": 47.3904
+    },
+    "distanceKm": 44
+  },
+  {
+    "id": "c06e2ae6-385b-49dc-8264-338cfce509b0",
+    "title": "Software Engineer 80/100% (m/w)",
+    "company": {
+      "id": "93587",
+      "name": "BAMBUS Software AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/196201f9-e243-4231-a7ff-ef565e91d8ab/124x44.png"
+      },
+      "slug": "93587-bambus-software-ag"
+    },
+    "logo": "https://media.jobs.ch/images/196201f9-e243-4231-a7ff-ef565e91d8ab/124x44.png",
+    "place": "Kriens",
+    "initialPublicationDate": "2026-04-02T16:34:32+02:00",
+    "employmentPositionIds": [
+      2
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-04-02T16:33:44+02:00",
+    "listingTags": [
+      {
+        "name": "quickApply"
+      },
+      {
+        "name": "easyApply"
+      }
+    ],
+    "coordinates": {
+      "lon": 8.30038,
+      "lat": 47.0283
+    },
+    "distanceKm": 61
+  },
+  {
+    "id": "09e09e91-ac62-4697-a95a-8da24a746c5d",
+    "title": "Software Automation Engineer",
+    "company": {
+      "id": "20439",
+      "name": "Equans Switzerland Process Automation AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/a6b204ba-8038-4fcc-bf5a-86e9ddaad197"
+      },
+      "slug": "20439-equans-switzerland-process-automation-ag"
+    },
+    "logo": "https://media.jobs.ch/images/a6b204ba-8038-4fcc-bf5a-86e9ddaad197",
+    "place": "Olten",
+    "initialPublicationDate": "2026-03-23T16:04:40+01:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-23T16:02:53+01:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 7.89616,
+      "lat": 47.3451
+    },
+    "distanceKm": 31
+  },
+  {
+    "id": "55dfcf45-e550-4385-a648-cc4d487bc68e",
+    "title": "Software Engineer 80 - 100 % (w/m/d)",
+    "company": {
+      "id": "72291",
+      "name": "Hamilton Medical AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/4573de23-4009-49db-a57a-8dba6d60ed33/600x600.png"
+      },
+      "slug": "72291-hamilton-medical-ag"
+    },
+    "logo": "https://media.jobs.ch/images/4573de23-4009-49db-a57a-8dba6d60ed33/600x600.png",
+    "place": "Bonaduz",
+    "initialPublicationDate": "2026-03-30T06:00:00+02:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-31T03:00:00+02:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 9.369930878808978,
+      "lat": 46.793881711904675
+    },
+    "distanceKm": 147
+  },
+  {
+    "id": "f36cc326-f2a7-4a94-bb3c-f509705d6119",
+    "title": "Software Developer with focus on AI",
+    "company": {
+      "id": "139386",
+      "name": "Sulzer & Schmid Laboratories AG",
+      "logoImage": {
+        "src": ""
+      },
+      "slug": "139386-sulzer-and-schmid-laboratories-ag"
+    },
+    "logo": null,
+    "place": "Oetwil am See",
+    "initialPublicationDate": "2026-03-19T18:04:36+01:00",
+    "employmentPositionIds": [
+      2
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-19T18:04:28+01:00",
+    "listingTags": [
+      {
+        "name": "quickApply"
+      },
+      {
+        "name": "easyApply"
+      }
+    ],
+    "coordinates": {
+      "lon": 8.72587,
+      "lat": 47.2751
+    },
+    "distanceKm": 90
+  },
+  {
+    "id": "54e8af25-bd06-47a1-aeef-eaac84d1bd30",
+    "title": "Software Engineer Web and Cloud 80\u2013100%",
+    "company": {
+      "id": "361bb9ba-5eae-4df2-b723-b29b1996c066",
+      "name": "R. Nussbaum AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/media/8e39b8af-820f-4e6c-8fdd-676ed586edaa"
+      },
+      "slug": "361bb9ba-5eae-4df2-b723-b29b1996c066-r-nussbaum-ag"
+    },
+    "logo": "https://media.jobs.ch/media/8e39b8af-820f-4e6c-8fdd-676ed586edaa",
+    "place": "Olten",
+    "initialPublicationDate": "2026-03-25T15:43:41+00:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-25T16:43:41+01:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 7.91013,
+      "lat": 47.35102
+    },
+    "distanceKm": 33
+  },
+  {
+    "id": "0bbc0bbf-1f94-4f44-af71-a663c16e0e1b",
+    "title": "Software Engineer Automation",
+    "company": {
+      "id": "55563",
+      "name": "Flexsis \u2013 Bern",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/080febe3-0805-4b63-bf2f-079880bce060/320x320.png"
+      },
+      "slug": "55563-flexsis-bern"
+    },
+    "logo": "https://media.jobs.ch/images/080febe3-0805-4b63-bf2f-079880bce060/320x320.png",
+    "place": "3173 / K\u00f6niz",
+    "initialPublicationDate": "2026-04-01T12:34:25+02:00",
+    "employmentPositionIds": [
+      2
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-04-01T12:33:18+02:00",
+    "listingTags": []
+  },
+  {
+    "id": "fdaf6dcd-65e5-41c0-b28b-3d88175c27f5",
+    "title": "Rust Software Engineer",
+    "company": {
+      "id": "11038",
+      "name": "Flexsis AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/381b1501-dbda-486c-9fc9-33de0e9bc0b1/1333x320.png"
+      },
+      "slug": "11038-flexsis-ag"
+    },
+    "logo": "https://media.jobs.ch/images/381b1501-dbda-486c-9fc9-33de0e9bc0b1/1333x320.png",
+    "place": "Rotkreuz",
+    "initialPublicationDate": "2026-03-23T11:34:38+01:00",
+    "employmentPositionIds": [
+      2
+    ],
+    "employmentTypeIds": [
+      "1"
+    ],
+    "employmentGrades": [
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-23T11:33:26+01:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 8.459142840991687,
+      "lat": 47.13830477524364
+    },
+    "distanceKm": 70
+  },
+  {
+    "id": "564fdddd-d040-4c5f-a8cf-8b68be24840c",
+    "title": "Professional Software Engineer .NET, 80-100%",
+    "company": {
+      "id": "844",
+      "name": "VZ Verm\u00f6gensZentrum",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/0dffee5c-5d40-4df2-b1c4-1e90d67a86d6/1949x1943.png"
+      },
+      "slug": "844-vz-vermogenszentrum"
+    },
+    "logo": "https://media.jobs.ch/images/0dffee5c-5d40-4df2-b1c4-1e90d67a86d6/1949x1943.png",
+    "place": "Z\u00fcrich",
+    "initialPublicationDate": "2026-03-30T16:34:32+02:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-03-30T16:32:58+02:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 8.53707,
+      "lat": 47.3663
+    },
+    "distanceKm": 78
+  },
+  {
+    "id": "8021426a-72f9-4dfa-9d04-ad32543e6fbb",
+    "title": "Expert Software Engineering (80-100%)",
+    "company": {
+      "id": "16954",
+      "name": "BELIMO Automation AG",
+      "logoImage": {
+        "src": "https://media.jobs.ch/images/efb7d1ff-e47c-4a24-bd10-f9381db1c58d/124x44.png"
+      },
+      "slug": "16954-belimo-automation-ag"
+    },
+    "logo": "https://media.jobs.ch/images/efb7d1ff-e47c-4a24-bd10-f9381db1c58d/124x44.png",
+    "place": "Hinwil",
+    "initialPublicationDate": "2026-04-07T13:34:47+02:00",
+    "employmentPositionIds": [
+      3
+    ],
+    "employmentTypeIds": [
+      "5"
+    ],
+    "employmentGrades": [
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "benefitIds": [],
+    "isPaid": true,
+    "languageIds": [],
+    "publicationDate": "2026-04-07T13:32:55+02:00",
+    "listingTags": [],
+    "coordinates": {
+      "lon": 8.82014,
+      "lat": 47.3058
+    },
+    "distanceKm": 98
+  }
+]
